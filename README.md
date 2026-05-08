@@ -1,3 +1,5 @@
+[![CI](https://github.com/TintuJ/API_Testing/actions/workflows/ci.yml/badge.svg)](https://github.com/TintuJ/API_Testing/actions/workflows/ci.yml)
+
 # API Testing Project
 
 This project demonstrates API testing using two popular frameworks: pytest (Python) and Robot Framework.
